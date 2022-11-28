@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development & Blockchain**
 
-- 📄 Know about my experiences [shorturl.at/hNPV1](shorturl.at/hNPV1)
+- 📄 Know about my experiences https://www.dropbox.com/s/3t4l4xjpenqps5d/Saajid%27s%20Resume.pdf?dl=0
 
 - ⚡ Fun fact **I am into E-sports**
 
