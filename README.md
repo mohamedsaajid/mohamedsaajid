@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Back-end Development & Blockchain**
 
 - ⚡ Fun fact **I am into Fitness and E-Sports**
-- 
+
 - 📝 I regularly write articles on [https://substack.com/@saajid](https://substack.com/@saajid)
 
 <h3 align="left">Connect with me:</h3>
