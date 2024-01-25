@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="[https://twitter.com/notsaajid](https://twitter.com/notsaajid)" target="blank"><img src="https://img.shields.io/twitter/follow/notsaajid?logo=twitter&style=for-the-badge" alt="notsaajid" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Site**
+- 🔭 I’m currently working on **Full-Stack Project**
 
 - 🌱 I’m currently learning **Back-end Development & Blockchain**
 
