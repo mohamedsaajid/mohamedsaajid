@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsaajid&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaajid" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/thesaajid](https://twitter.com/thesaajid)" target="blank"><img src="https://img.shields.io/twitter/follow/thesaajid?logo=twitter&style=for-the-badge" alt="thesaajid" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/notsaajid](https://twitter.com/notsaajid)" target="blank"><img src="https://img.shields.io/twitter/follow/thesaajid?logo=twitter&style=for-the-badge" alt="notsaajid" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio Site**
 
